@@ -316,5 +316,5 @@ $ npm install
 $ npm install
 ```
 
-![Image of Yaktocat](https://github.com/VakhshooriEhsan/Plugin-based-architecture-in-angular/readmeImages/img1.png)
+![Image of Yaktocat](https://github.com/VakhshooriEhsan/Plugin-based-architecture-in-angular.git/readmeImages/img1.PNG)
 ![Image of Yaktocat](https://github.com/VakhshooriEhsan/Plugin-based-architecture-in-angular/readmeImages/img2.png)
