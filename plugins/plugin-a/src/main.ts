@@ -1,0 +1,1 @@
+export { AppModule } from './app/plugin-a.module';

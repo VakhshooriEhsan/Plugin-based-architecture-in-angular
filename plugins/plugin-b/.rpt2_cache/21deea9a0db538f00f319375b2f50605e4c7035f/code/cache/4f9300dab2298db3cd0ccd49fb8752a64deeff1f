@@ -1,0 +1,1 @@
+{"code":"export { PluginAModule } from './app/plugin-a.module';\r\n//# sourceMappingURL=main.js.map","map":{"version":3,"file":"main.js","sourceRoot":"","sources":["src/main.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,aAAa,EAAE,MAAM,uBAAuB,CAAC"}}
