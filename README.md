@@ -315,6 +315,8 @@ $ npm install
 ```bash
 $ npm install
 ```
-
+## Sample view
+Add plugin-a to core:
 ![Add plugin-a to core](https://raw.githubusercontent.com/VakhshooriEhsan/Plugin-based-architecture-in-angular/master/readmeImages/img1.PNG)
+Add plugin-b to core:
 ![Add plugin-b to core](https://raw.githubusercontent.com/VakhshooriEhsan/Plugin-based-architecture-in-angular/master/readmeImages/img2.PNG)
